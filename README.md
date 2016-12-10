@@ -7,3 +7,5 @@ In the future I'll learn more language,such as Node.js,Solidity,Cpp.
 I don't know how many times I've used github,I really like it but I never learn it seriously before.
 From now on,I'll learn how to use github and commit my codes as much as I can.
 come on,man! I'm ready for future!
+
+test git in command line.
