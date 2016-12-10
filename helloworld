@@ -1,0 +1,7 @@
+#test the newbranch
+<<<<<<< HEAD
+#test conflict ,changed master.
+=======
+#test confict again
+>>>>>>> testing2
+hello world!
